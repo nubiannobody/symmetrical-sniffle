@@ -3,3 +3,13 @@ function longSum(x,y) {
     let sum = x + y;
     return `${x} + ${y} = ${sum}`
 }
+
+/*
+
+Author's Answer
+
+function longSum(x, y) {
+    return `${x} + ${y} = ${x + y}`;
+}
+
+*/
