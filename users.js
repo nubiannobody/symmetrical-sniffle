@@ -11,5 +11,3 @@ function loginCount(user) {
 ];
 
 console.log(users);
-
-love! 
